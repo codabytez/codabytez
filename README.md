@@ -1,8 +1,8 @@
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+</div> -->
 
 ###
 
@@ -35,11 +35,12 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
 
 <div align="center">
+<h1 align="center" style="font-weight:800">TECH SKILLS </h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="60" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="60" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="60" alt="bootstrap logo"  />
@@ -66,7 +67,7 @@
 
 <br clear="both">
 
-<h1 align="left" style="color:red;text-transform:uppercase;font-weight:800;margin-left:2rem">Connect with me:</h1>
+<h1 align="center" style="font-weight:800;">aRe yOu lOoKiNg fOr mE?</h1>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -85,7 +86,7 @@
 
 <div align="center" style="border-style:solid;border-width:2px;border-color:#e6e6e6">
 
-<h2>My Now Playing</h2>
+<h2>Now Playing</h2>
 
 [![Alt text](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=162216&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&redirect=true&width=300)
 
