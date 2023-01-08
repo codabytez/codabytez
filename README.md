@@ -29,7 +29,11 @@
 <br clear="both">
 
 <div align="center">
-     <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chizzi001&layout=compact&langs_count=16&theme=dracula"/>
+   <a href="https://github.com/eagrundy">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chizzi001&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chizzi001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+     
+     
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=My GitHub Stats&username=chizzi001" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=chizzi001" height="250" alt="languages graph"  />
 </div>
