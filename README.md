@@ -1,8 +1,10 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+  <img height="200" src="https://https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif/65efzo.gif" alt="why" />
 </div>
+
+
 
 ###
 
@@ -40,7 +42,7 @@
   
  
 
-<img  height="150" src="https://tenor.com/view/coding-gif-25731151" alt="chech am" />
+<img  height="150" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="chech am" />
 
      
 ###
