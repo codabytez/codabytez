@@ -37,16 +37,15 @@
      
 
 ###
-     
+  
+ 
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="lolo" />
 
      
 ###
      
-  <br>
-<br>
-<br>
+ 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="60" alt="html5 logo"  />
@@ -92,7 +91,7 @@
 
 ###
 
-<div style="float:left;background-color:#000;margin-top:1rem">
+<div style="float:left;margin-top:1rem">
 
 [![Alt text](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=162216&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&redirect=true&width=300)
 
@@ -101,7 +100,7 @@
 
 <div style="float:right">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b2i85budxdngpxcojz8ymrxn5&count=2&width=200)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b2i85budxdngpxcojz8ymrxn5&count=2&width=300)
 
 </div>
 
