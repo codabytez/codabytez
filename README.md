@@ -40,14 +40,15 @@
   
  
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="lolo" />
+<img  height="150" src="https://bit.ly/3ZeLAyZ" alt="chech am" />
 
      
 ###
      
  
 
-<div align="center">
+<div align="left">
+<!--   <h1>TECH I USE</h1> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="60" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="60" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="60" alt="bootstrap logo"  />
@@ -74,7 +75,7 @@
 
 <br clear="both">
 
-<h1 align="left" style="font-weight:800;margin-left:2rem">CONNECT WITH ME:</h1>
+<h1 align="center" style="font-weight:800;margin-left:2rem">FINE ME</h1>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -93,7 +94,7 @@
 
 <div style="float:left;margin-top:1rem">
 
-[![Alt text](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=162216&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&redirect=true&width=300)
+[![Alt text](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&redirect=true)
 
 </div>
 
