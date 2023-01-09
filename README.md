@@ -84,7 +84,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/chizzi001/chizzi001/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/chizzi001/chizzi001/blob/output/github-contribution-grid-snake.svg) -->
 
 ###
 
@@ -107,11 +107,14 @@
 
 ###
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=chizzi001.chizzi001&left_text=Proflie Views"  />
+
+###
+
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chizzi001" alt="chizzi001" /></a> </p>
 
-<p align="left" style="float:left"> <a href="https://twitter.com/justcodiing" target="blank"><img src="https://img.shields.io/twitter/follow/justcodiing?logo=twitter&style=for-the-badge" alt="justcodiing" /></a> </p>
+<p align="left"> <a href="https://twitter.com/justcodiing" target="blank"><img src="https://img.shields.io/twitter/follow/justcodiing?logo=twitter&style=for-the-badge" alt="justcodiing" /></a> </p>
 
-<img align="right" style="height:30px" src="https://visitor-badge.laobi.icu/badge?page_id=chizzi001.chizzi001&left_text=Proflie Views"  />
 
 <!---
 chizzi001/chizzi001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
