@@ -121,6 +121,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=b14e4e&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&redirect=true)
 
 </div>
+
 ###
 
 
@@ -136,7 +137,7 @@
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chizzi001&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+<img src="https://github-profile-trophy.vercel.app/?username=chizzi001&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false">
 
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
