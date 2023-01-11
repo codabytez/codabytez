@@ -1,6 +1,3 @@
-
-<img src="images/text.svg" width="100%">
-
 ###
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/chizzi001/chizzi001/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
@@ -11,7 +8,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
+<h1 align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
 
 <!--🖼️OCTOCAT-->
@@ -25,7 +22,9 @@
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats && https://github.com/denvercoder1/github-readme-streak-stats -->
 <p align="center">
 <img src="https://github-readme-stats-trinib.vercel.app/api?username=chizzi001&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=chizzi001&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
-
+ 
+###
+    
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <a href="https://github.com/chizzi001/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=chizzi001&layout=compact&theme=merko">
@@ -33,8 +32,14 @@
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=zuri-training&repo=excel_comp_team_106&theme=merko">
 
+###
+  
+<div align="center">
+  
+![GitHub metrics](https://metrics.lecoq.io/chizzi001)  
 
-
+###
+  
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
 <p align="center">
   <a href="https://github.com/chizzi001?tab=repositories&sort=stargazers">
@@ -91,7 +96,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
 <a href="https://www.linkedin.com/in/chizzi01" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -135,7 +140,13 @@
 
 ###
 
-<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
+<!--🏆TROPHY BADGES / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
+      
+<h1 align="center">TROPHIES AND BADGES</h1>      
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+###
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=chizzi001&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false">
 
