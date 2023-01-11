@@ -1,11 +1,14 @@
-###
+
+<img src="https://raw.githubusercontent.com/chizzi001/chizzi001/main/images/text.svg" width="100%">
+
+
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/chizzi001/chizzi001/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/chizzi001/chizzi001/main/images/marquee2.svg">
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <h1 align="center">
@@ -34,9 +37,11 @@
 
 ###
   
-<div align="center">
-  
+<div align="center"> 
+ 
 ![GitHub metrics](https://metrics.lecoq.io/chizzi001)  
+ 
+</div>
 
 ###
   
@@ -168,8 +173,10 @@
 
 <!--🏆TROPHY BADGES / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
       
-<h1 align="center">TROPHIES AND BADGES</h1>      
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<h1 align="center">TROPHIES AND BADGES</h1>
+     
+ <p  align="center">
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a> 
 
 ###
 
