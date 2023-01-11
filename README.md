@@ -75,19 +75,45 @@
 ###
 
 <div align="center">
+ <a target="_blank" href="https://html.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" width="42" alt="html5 logo"  />
+  </a>
+  <a target="_blank" href="https://www.w3.org/Style/CSS/Overview.en.html">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" width="42" alt="css3 logo"  />
+   </a>
+   <a target="_blank" href="https://tailwindcss.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="tailwindcss logo"  />
+    </a>
+    <a target="_blank" href="https://getbootstrap.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" width="42" alt="bootstrap logo"  />
+     </a>
+     <a target="_blank" href="https://www.javascript.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="42" alt="javascript logo"  />
+      </a>
+      <a target="_blank" href="https://reactjs.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="42" alt="react logo"  />
+       </a>
+       <a target="_blank" href="https://www.gnu.org/software/bash/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
+        </a>
+        <a target="_blank" href="https://git-scm.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="30" width="42" alt="git logo"  />
+         </a>
+         <a target="_blank" href="https://github.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
+          </a>
+          <a target="_blank" href="https://heroku.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="30" width="42" alt="heroku logo"  />
+           </a>
+           <a target="_blank" href="https://www.markdownguide.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" width="42" alt="markdown logo"  />
+            </a>
+            <a target="_blank" href="https://slack.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="slack logo"  />
+             </a>
+             <a target="_blank" href="https://code.visualstudio.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="30" width="42" alt="vscode logo"  />
+ </a>
 </div>
 
 ###
