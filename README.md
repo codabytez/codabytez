@@ -7,25 +7,20 @@
 <h1 align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
 
-<!--🖼️OCTOCAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
-<!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
 <p align="center">
 <a href="https://chizzi001.wrapped.run"><b>GitHub Wrapped</b></a>
 
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats && https://github.com/denvercoder1/github-readme-streak-stats -->
 <p align="center">
 <img src="https://github-readme-stats-trinib.vercel.app/api?username=chizzi001&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=chizzi001&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
  
 ###
-    
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+
 <p align="center">
 <a href="https://github.com/chizzi001/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=chizzi001&layout=compact&theme=merko">
 
-<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=zuri-training&repo=excel_comp_team_106&theme=merko">
 
 ###
