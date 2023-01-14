@@ -1,16 +1,9 @@
 
 <img src="https://raw.githubusercontent.com/chizzi001/chizzi001/main/images/text.svg" width="100%">
 
-
-
-<!--📰RSS / TAKE IMAGE FROM https://github.com/chizzi001/chizzi001/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/chizzi001/chizzi001/main/images/marquee2.svg">
 
-<!--📏LINE-->
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
-
-<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <h1 align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
 
