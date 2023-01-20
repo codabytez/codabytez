@@ -35,7 +35,7 @@ A FRONTEND WEB DEVELOPER</h1>
 <p align="center">
 <a href="https://github.com/chizzi001/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=chizzi001&layout=compact&theme=merko">
 
-<img src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=chizzi001&repo=house-rentals-agency&theme=merko">
+<img src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=chizzi001&repo=home-rentals-agency&theme=merko">
 
 ###
   
