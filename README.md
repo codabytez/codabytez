@@ -41,7 +41,7 @@ A FRONTEND WEB DEVELOPER</h1>
   
 <div align="center"> 
  
-![GitHub metrics](https://metrics.lecoq.io/chizzi001)  
+![GitHub metrics](https://metrics.lecoq.io/chizzi001)
  
 </div>
 
@@ -68,9 +68,21 @@ A FRONTEND WEB DEVELOPER</h1>
      
 <!--      
   [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/justCodiing.svg?style=for-the-badge&logo=twitter&color=0E9C49&label=Follow%20%40justCodiing)](https://twitter.com/justCodiing) -->
+     
+     
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=chizzi001&color=0E9C47&style=for-the-badge">
+ 
+  ###
+ 
+ <div align="center"> 
+
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=justCodiing&show_reply=off&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
+ 
+</div>
+ 
+ ###
 
 <img src="https://camo.githubusercontent.com/5727cceaf70d64b4b7b227987461b67ec8a93473be1cdb2a2ac72b507c72bba0/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d7472696e696226637573746f6d5f7469746c653d254532253936253931254532253936253931282545322539372541335f2545322539372541322925453225393625393125453225393625393126686964655f626f726465723d74727565267468656d653d72656163742d6461726b26636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765" width="100%">
 
@@ -78,6 +90,7 @@ A FRONTEND WEB DEVELOPER</h1>
 
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
 
 ![Snake animation](https://github.com/chizzi001/chizzi001/blob/output/github-contribution-grid-snake.svg)
 
