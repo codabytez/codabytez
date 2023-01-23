@@ -80,7 +80,7 @@ A FRONTEND WEB DEVELOPER</h1>
  
  <div align="center"> 
 
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=justCodiing&show_reply=off&show_retweet=off&show_border=off)](https://twitter.com/justCodiing/)
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=justCodiing&show_reply=on&show_retweet=off&show_border=on&layout=wide)](https://twitter.com/justCodiing/)
  
 </div>
  
