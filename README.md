@@ -55,11 +55,13 @@ A FRONTEND WEB DEVELOPER</h1>
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/chizzi001?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
     
 ###
-    
+
+<!--    
 <p align="left"> 
    <a href="https://twitter.com/justCodiing" target="blank"><img src="https://img.shields.io/twitter/follow/justcodiing?logo=twitter&color=0E9C49&style=for-the-badge" alt="justcodiing" />
    </a> 
   </p>
+-->
   
   <p align="left"> 
    <a href="https://twitter.com/justCodiing" target="blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/justcodiing.svg?style=for-the-badge&logo=twitter&color=0E9C49&label=click To Follow on Twitter" alt="justcodiing" />
