@@ -56,10 +56,10 @@ A FRONTEND WEB DEVELOPER</h1>
     
 ###
     
-<!--   <p align="left"> 
+<p align="left"> 
    <a href="https://twitter.com/justCodiing" target="blank"><img src="https://img.shields.io/twitter/follow/justcodiing?logo=twitter&color=0E9C49&style=for-the-badge" alt="justcodiing" />
    </a> 
-  </p> -->
+  </p>
   
   <p align="left"> 
    <a href="https://twitter.com/justCodiing" target="blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/justcodiing.svg?style=for-the-badge&logo=twitter&color=0E9C49&label=click To Follow on Twitter" alt="justcodiing" />
