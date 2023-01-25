@@ -1,3 +1,6 @@
+name: Waka Times 2
+# Visit https://github.com/avinal/Profile-Readme-WakaTime for more description about this GitHub Action.
+
 on:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
