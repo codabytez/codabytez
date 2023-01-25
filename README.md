@@ -36,6 +36,13 @@ A FRONTEND WEB DEVELOPER</h1>
  
  ###
  
+ <img
+  src="https://github.com/chizzi001/chizzi001/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
+###
+ 
 <p align="center">
 <a href="https://github.com/chizzi001/"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=chizzi001&layout=compact&theme=merko">
 
