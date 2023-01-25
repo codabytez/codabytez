@@ -37,7 +37,7 @@ A FRONTEND WEB DEVELOPER</h1>
  ###
  
  <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  src="https://github.com/chizzi001/chizzi001/blob/main/images/stat.svg" 
   alt="Avinal WakaTime Activity"
 />
 
