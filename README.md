@@ -32,6 +32,10 @@ A FRONTEND WEB DEVELOPER</h1>
  
 ###
 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chizzi01)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ###
+ 
 <p align="center">
 <a href="https://github.com/chizzi001/"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=chizzi001&layout=compact&theme=merko">
 
