@@ -31,15 +31,12 @@ A FRONTEND WEB DEVELOPER</h1>
 <img src="https://github-readme-stats-trinib.vercel.app/api?username=chizzi001&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=chizzi001&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
  
 ###
-
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chizzi01)](https://github.com/anuraghazra/github-readme-stats)
  
- ###
+ <h1 align="center">
+ <a href="https://wakatime.com/@chizzi01"> <b> WAKATIME STATS </b> 
  
- <img
-  src="https://github.com/chizzi001/chizzi001/blob/main/images/stat.svg" 
-  alt="Avinal WakaTime Activity"
-/>
+ <img src="https://github.com/chizzi001/chizzi001/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" />
+ </a>
 
 ###
  
