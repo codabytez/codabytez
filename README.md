@@ -8,12 +8,12 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/chizzi001/chizzi001/main/images/marquee2.svg">
 
-<img   align="center" alt="Coding" width="500" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img   align="right" alt="Coding" width="500" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 ###
 
-<h1 align="center">
-A FRONTEND WEB DEVELOPER</h1>
+<!-- <h1 align="center">
+A FRONTEND WEB DEVELOPER</h1> -->
 
 ###
 
@@ -21,9 +21,11 @@ A FRONTEND WEB DEVELOPER</h1>
 * 🧠  I'm learning React and Tailwind
 * 🤝  I'm open to collaborating on Frontend Projects
 * ⚡  FUN FACT: music is basically my Life. Without it ☠️
+ 
+ ###
 
 <h1 align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
+<img src="https://i.imgur.com/YCw47Dm.gif" width="600" align="center">
 
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
