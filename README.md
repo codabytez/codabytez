@@ -3,10 +3,15 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
+ <img width="100%" src="https://github.com/chizzi001/chizzi001/blob/main/images/developer.gif" />
+
+##
+
 <img src="https://raw.githubusercontent.com/chizzi001/chizzi001/main/images/text.svg" width="100%">
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/chizzi001/chizzi001/main/images/marquee2.svg">
+ 
 
 <img   align="right" alt="Coding" width="500" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
