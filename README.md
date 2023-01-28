@@ -69,12 +69,7 @@ A FRONTEND WEB DEVELOPER</h1> -->
 <a href="https://github.com/chizzi001/">
  <img align="center"  src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=chizzi001&layout=compact&theme=merko">
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chizzi01&bg_color=red">
-</a>
-
-<img src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=chizzi001&repo=home-rentals-agency&theme=merko">
+<img align="center" src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=chizzi001&repo=home-rentals-agency&theme=merko">
 
 ###
   
