@@ -206,7 +206,7 @@ A FRONTEND WEB DEVELOPER</h1> -->
 
 ###
 
-<h2 align="center">NOW PLAYING</h2>
+<h2 align="center">NOW PLAYING </h2>
 
 <div align="center">
  
