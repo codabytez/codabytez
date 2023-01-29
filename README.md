@@ -101,8 +101,8 @@ A FRONTEND WEB DEVELOPER</h1> -->
    </a> 
   </p>
      
-<!--      
-  [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/justCodiing.svg?style=for-the-badge&logo=twitter&color=0E9C49&label=Follow%20%40justCodiing)](https://twitter.com/justCodiing) -->
+     
+  [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/justCodiing.svg?style=for-the-badge&logo=twitter&color=0E9C49&label=Follow%20%40justCodiing)](https://twitter.com/justCodiing)
      
      
 
