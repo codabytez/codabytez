@@ -101,10 +101,6 @@ A FRONTEND WEB DEVELOPER</h1> -->
    </a> 
   </p>
      
-     
-  [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/justCodiing.svg?style=for-the-badge&logo=twitter&color=0E9C49&label=Follow%20%40justCodiing)](https://twitter.com/justCodiing)
-     
-     
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=chizzi001&color=0E9C47&style=for-the-badge">
