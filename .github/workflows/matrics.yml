@@ -33,8 +33,6 @@ jobs:
           user: chizzi001
           template: classic
           base: header, activity, community, repositories, metadata
-          base_hireable: yes
-          base_indepth: yes
           config_display: columns
           config_timezone: Africa/Lagos
           plugin_achievements: yes
@@ -76,8 +74,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 10
+          plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -89,7 +86,7 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_music: yes
-          plugin_music_limit: 12
+          plugin_music_limit: 100
           plugin_music_mode: playlist
           plugin_music_played_at: yes
           plugin_music_playlist: https://open.spotify.com/playlist/5NUN3EUhsTFpHsTaTQw9pM
@@ -98,15 +95,15 @@ jobs:
           plugin_music_top_type: tracks
           plugin_music_user: b2i85budxdngpxcojz8ymrxn5
           plugin_notable: yes
-          plugin_notable_from: organization
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
           plugin_notable_types: commit
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_projects: yes
+          plugin_projects_descriptions: yes
           plugin_projects_limit: 4
           plugin_reactions: yes
           plugin_reactions_display: absolute
@@ -117,6 +114,7 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
           plugin_skyline: yes
+          plugin_skyline_compatibility: yes
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
           plugin_skyline_settings: {
@@ -128,6 +126,7 @@ jobs:
 
           plugin_skyline_year: current-year
           plugin_sponsors: yes
+          plugin_sponsors_past: yes
           plugin_sponsors_sections: goal, list, about
           plugin_sponsors_size: 24
           plugin_sponsors_title: Sponsor Me!
@@ -144,6 +143,7 @@ jobs:
           plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_support: yes
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
