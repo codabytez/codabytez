@@ -1,4 +1,5 @@
  
+ 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
@@ -75,7 +76,7 @@ A FRONTEND WEB DEVELOPER</h1> -->
   
 <div align="center"> 
  
-![GitHub metrics](https://metrics.lecoq.io/chizzi001)
+ ![Metrics](https://metrics.lecoq.io/chizzi001)
  
 </div>
 
