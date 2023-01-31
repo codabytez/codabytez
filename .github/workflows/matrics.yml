@@ -14,17 +14,15 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: medias.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           config_order: anilist, music
           output_action: gist
-          committer_gist: ${{ secrets.GIST }}
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
-          plugin_music_playlist: ${{ secrets.PLAYLIST }}
+          # plugin_music_playlist: ${{ secrets.PLAYLIST }}
           # token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
@@ -87,7 +85,7 @@ jobs:
           plugin_music_limit: 100
           plugin_music_mode: playlist
           plugin_music_played_at: yes
-          # plugin_music_playlist: https://open.spotify.com/playlist/5NUN3EUhsTFpHsTaTQw9pM
+          plugin_music_playlist: https://open.spotify.com/playlist/5NUN3EUhsTFpHsTaTQw9pM
           plugin_music_provider: spotify
           plugin_music_time_range: long
           plugin_music_top_type: tracks
