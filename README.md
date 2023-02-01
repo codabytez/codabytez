@@ -54,7 +54,7 @@
 ###
  
  <h1 align="center">
- <a href="https://wakatime.com/@chizzi01"> <b> WAKATIME STATS </b> 
+ <a href="https://wakatime.com/@chizzi01"> <b> WAKATIME STATS </b>
  
  <img src="https://github.com/chizzi001/chizzi001/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" />
  </a>
@@ -87,15 +87,18 @@
  
 <!--  <p align="left"> <a href="https://twitter.com/justcodiing" target="blank"><img src="https://img.shields.io/twitter/follow/justcodiing?logo=twitter&style=for-the-badge" alt="justcodiing" /></a> </p> -->
   
-  <p align="left"> 
+  <p align="center"> 
    <a href="https://twitter.com/justCodiing" target="blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/justcodiing.svg?style=for-the-badge&logo=twitter&color=0E9C49&label=click To Follow me on Twitter" alt="justcodiing" />
    </a> 
-  </p>
-     
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=chizzi001&color=0E9C47&style=for-the-badge">
+ <a href="https://wakatime.com/@e01f1d03-419c-4041-ac1e-4feedadb1682">
+ <img src="https://wakatime.com/badge/user/e01f1d03-419c-4041-ac1e-4feedadb1682.svg?style=social" alt="Total time coded since Jan 11 2023" />
+ </a>
  
+ <img src="https://komarev.com/ghpvc/?username=chizzi001&color=0E9C47&style=for-the-badge">
+   
+  </p>     
+
   ###
  
  <div align="center"> 
