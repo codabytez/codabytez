@@ -37,6 +37,12 @@
  
 * ⚡  FUN FACT: music is basically my Life. Without it ☠️
  
+ #
+ 
+ <p align="center">
+ <img src="https://readme-jokes.vercel.app/api">
+</p>
+ 
  ##
 
 <h1 align="center">
