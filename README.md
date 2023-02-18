@@ -181,9 +181,10 @@
   <a href="https://www.instagram.com/chizzi01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+ https://open.spotify.com/user/b2i85budxdngpxcojz8ymrxn5?si=fc6bb4828774461a
    </a>
   <a href="https://www.twitter.com/justCodiing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=#191414&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=00acee&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://discordapp.com/users/937116359601569842" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
