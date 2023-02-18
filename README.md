@@ -63,7 +63,7 @@
  
 <p align="center">
 <a href="https://github.com/chizzi001/">
- <img align="center"  src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=chizzi001&layout=compact&theme=merko">
+ <img align="center"  src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=chizzi001&langs_count=8&layout=compact&theme=merko">
 </a>
 <img align="center" src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=chizzi001&repo=home-rentals-agency&theme=merko">
 
