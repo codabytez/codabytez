@@ -1,6 +1,3 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&redirect=true)
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
@@ -230,7 +227,7 @@
 
 <p align="center">
 <a href="https://open.spotify.com/playlist/5NUN3EUhsTFpHsTaTQw9pM">
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=b2i85budxdngpxcojz8ymrxn5&count=5">
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=b2i85budxdngpxcojz8ymrxn5&count=10&width=800">
 </a>
 </p>
   
