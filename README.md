@@ -226,7 +226,7 @@
 ###
 
 <p align="center">
-<a href="https://open.spotify.com/playlist/5NUN3EUhsTFpHsTaTQw9pM">
+<a href="https://open.spotify.com/user/b2i85budxdngpxcojz8ymrxn5">
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=b2i85budxdngpxcojz8ymrxn5&count=10&width=800">
 </a>
 </p>
