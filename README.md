@@ -37,7 +37,7 @@
  
  ###
  
-* ⚡  FUN FACT: music is basically my Life. Without it ☠️
+* ⚡  Music has a way of speaking to my innermost emotion, bring healing and restoration to my soul 🥹
  
  #
  
