@@ -1,6 +1,6 @@
 ## Now Playing
 
-![Now Playing](https://raw.githubusercontent.com/chizzi001/chizzi001/main/images/card_small.svg)
+![Now Playing](https://raw.githubusercontent.com/chizzi001/chizzi001/main/now-playing.svg)
 
 
 <div id="header" align="center">
