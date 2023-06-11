@@ -1,0 +1,26 @@
+name: Update Now Playing
+
+on:
+  schedule:
+    - cron: "*/1 * * * *"
+
+jobs:
+  update-now-playing:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate Now Playing image
+        run: npm run generate-now-playing
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update Now Playing [skip ci]"
