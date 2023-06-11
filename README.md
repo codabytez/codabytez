@@ -1,3 +1,8 @@
+## Now Playing
+
+![Now Playing](https://raw.githubusercontent.com/chizzi001/chizzi001/main/images/card_small.svg)
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
