@@ -3,7 +3,6 @@ name: Update Now Playing
 on:
   schedule:
     - cron: "*/5 * * * *"
-  workflow_dispatch:
 
 jobs:
   update-now-playing:
@@ -11,7 +10,7 @@ jobs:
 
     steps:
       - name: Set up Node.js
-        uses: actions/checkout@v3
+        uses: actions/setup-node@v2
         with:
           node-version: "14"
 
