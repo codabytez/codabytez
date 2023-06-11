@@ -112,13 +112,6 @@
    
   </p>     
 
-  ###
- 
- <div align="center"> 
-
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=justCodiing&show_reply=on&show_retweet=off&show_border=on&layout=wide)](https://twitter.com/justCodiing/)
- 
-</div>
  
  ###
 
