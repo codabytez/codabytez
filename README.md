@@ -1,20 +1,17 @@
-<!-- ## Now Playing -->
-
-<!-- ![Now Playing](https://raw.githubusercontent.com/chizzi001/chizzi001/main/now-playing.svg) -->
 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
- <img width="100%" src="https://github.com/chizzi001/chizzi001/blob/main/images/developer.gif" />
+ <img width="100%" src="https://github.com/codabytez/codabytez/blob/main/images/developer.gif" />
 
 ##
 
-<img src="https://raw.githubusercontent.com/chizzi001/chizzi001/main/images/text.svg" width="100%">
+<img src="https://raw.githubusercontent.com/codabytez/codabytez/main/images/text.svg" width="100%">
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/chizzi001/chizzi001/main/images/marquee2.svg">
+<img src="https://raw.githubusercontent.com/codabytez/codabytez/main/images/marquee2.svg">
  
 #
  
@@ -59,42 +56,42 @@
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 <p align="center">
-<a href="https://chizzi001.wrapped.run"><b>GitHub Wrapped</b></a>
+<a href="https://codabytez.wrapped.run"><b>GitHub Wrapped</b></a>
 
 <p align="center">
-<img src="https://github-readme-stats-trinib.vercel.app/api?username=chizzi001&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=chizzi001&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats-trinib.vercel.app/api?username=codabytez&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=codabytez&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
  
 ###
  
  <h1 align="center">
  <a href="https://wakatime.com/@chizzi01"> <b> WAKATIME STATS </b>
  
- <img src="https://github.com/chizzi001/chizzi001/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" />
+ <img src="https://github.com/codabytez/codabytez/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" />
  </a>
 
 ###
  
 <p align="center">
-<a href="https://github.com/chizzi001/">
- <img align="center"  src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=chizzi001&langs_count=8&layout=compact&theme=merko">
+<a href="https://github.com/codabytez/">
+ <img align="center"  src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=codabytez&langs_count=8&layout=compact&theme=merko">
 </a>
-<img align="center" src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=chizzi001&repo=home-rentals-agency&theme=merko">
+<img align="center" src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=codabytez&repo=home-rentals-agency&theme=merko">
 
 ###
   
 <div align="center"> 
  
- ![Metrics](https://metrics.lecoq.io/chizzi001)
+ ![Metrics](https://metrics.lecoq.io/codabytez)
  
 </div>
 
 ###
  
 <p align="center">
-  <a href="https://github.com/chizzi001?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/chizzi001"/></a>
-<a href="https://github.com/chizzi001?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/chizzi001?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/codabytez?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/codabytez"/></a>
+<a href="https://github.com/codabytez?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/codabytez?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
     
 ###
  
@@ -108,7 +105,7 @@
  <img src="https://wakatime.com/badge/user/e01f1d03-419c-4041-ac1e-4feedadb1682.svg?style=social" alt="Total time coded since Jan 11 2023" />
  </a>
  
- <img src="https://komarev.com/ghpvc/?username=chizzi001&color=0E9C47&style=for-the-badge">
+ <img src="https://komarev.com/ghpvc/?username=codabytez&color=0E9C47&style=for-the-badge">
    
   </p>     
 
@@ -119,7 +116,7 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 
-![Snake animation](https://github.com/chizzi001/chizzi001/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/codabytez/codabytez/blob/output/github-contribution-grid-snake.svg)
 
 ###
  
@@ -235,7 +232,7 @@
 ###
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chizzi001&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false">
+<img src="https://github-profile-trophy.vercel.app/?username=codabytez&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false">
 
 <h4 align="right">
  
