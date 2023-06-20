@@ -8,10 +8,10 @@
 
 ##
 
-<img src="https://raw.githubusercontent.com/codabytez/codabytez/main/images/text.svg" width="100%">
+<img src="https://github.com/codabytez/codabytez/blob/main/images/text.svg" width="100%">
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/codabytez/codabytez/main/images/marquee2.svg">
+<img src="https://github.com/codabytez/codabytez/blob/main/images/marquee2.svg">
  
 #
  
