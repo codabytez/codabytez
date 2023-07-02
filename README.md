@@ -64,7 +64,7 @@
 ###
  
  <h1 align="center">
- <a href="https://wakatime.com/@chizzi01"> <b> WAKATIME STATS </b>
+ <a href="https://wakatime.com/@codabytez"> <b> WAKATIME STATS </b>
  
  <img src="https://github.com/codabytez/codabytez/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" />
  </a>
@@ -95,10 +95,10 @@
     
 ###
  
-<!--  <p align="left"> <a href="https://twitter.com/justcodiing" target="blank"><img src="https://img.shields.io/twitter/follow/justcodiing?logo=twitter&style=for-the-badge" alt="justcodiing" /></a> </p> -->
+<!--  <p align="left"> <a href="https://twitter.com/codabytez" target="blank"><img src="https://img.shields.io/twitter/follow/codabytez?logo=twitter&style=for-the-badge" alt="codabytez" /></a> </p> -->
   
   <p align="center"> 
-   <a href="https://twitter.com/justCodiing" target="blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/justcodiing.svg?style=for-the-badge&logo=twitter&color=0E9C49&label=click To Follow me on Twitter" alt="justcodiing" />
+   <a href="https://twitter.com/codabytez" target="blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/codabytez.svg?style=for-the-badge&logo=twitter&color=0E9C49&label=click To Follow me on Twitter" alt="codabytez" />
    </a> 
 
  <a href="https://wakatime.com/@e01f1d03-419c-4041-ac1e-4feedadb1682">
@@ -173,7 +173,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/chizzi01" target="_blank">
+  <a href="https://www.linkedin.com/in/codabytez" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
@@ -185,7 +185,7 @@
   </a>
  
    </a>
-  <a href="https://www.twitter.com/justCodiing" target="_blank">
+  <a href="https://www.twitter.com/codabytez" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=00acee&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://discordapp.com/users/937116359601569842" target="_blank">
@@ -194,7 +194,7 @@
   <a href = "mailto: chidiobinna0001@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://codepen.io/chizzii01" target="_blank">
+  <a href="https://codepen.io/codabytez" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
 </div>
