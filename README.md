@@ -77,14 +77,6 @@
 <img align="center" src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=codabytez&repo=ToDo_List&theme=merko">
 
 ###
-  
-<div align="center"> 
- 
- ![Metrics](https://metrics.lecoq.io/codabytez)
- 
-</div>
-
-###
  
 <p align="center">
   <a href="https://github.com/codabytez?tab=repositories&sort=stargazers">
