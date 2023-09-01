@@ -27,19 +27,15 @@
  
  ###
 
-* 🌍  I'm based in Abuja, Nigeria
+* 🌍  Based in Abuja, Nigeria
  
  ###
  
-* 🧠  I'm learning React and Tailwind
+* 🧠  Learning React and Tailwind
  
  ###
  
-* 🤝  I'm open to collaborating on Frontend Projects
- 
- ###
- 
-* ⚡  Music has a way of speaking to my innermost emotion, bring healing and restoration to my soul 🥹
+* 🤝  Open to collaborating on Frontend Projects
  
  #
  
