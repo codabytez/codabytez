@@ -10,34 +10,20 @@
 
 <img src="https://github.com/codabytez/codabytez/blob/main/images/text.svg" width="100%">
 
-<p align="center">
-<img src="https://github.com/codabytez/codabytez/blob/main/images/marquee2.svg">
+<div align='center'>
+	<img alt="Coding" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width="100%"/>
+</div>
  
 #
- 
-<img   align="right" alt="Coding" width="500" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
- 
-###
- 
- * 📝 ...
- 
-###
- 
-* 👨‍💻 A Frontend Web Developer 
- 
- ###
 
-* 🌍  Based in Abuja, Nigeria
- 
- ###
- 
-* 🧠  Learning React and Tailwind
- 
- ###
- 
-* 🤝  Open to collaborating on Frontend Projects
- 
- #
+
+###
+
+
+* 👨‍💻 A Frontend Web Developer
+*  🌍  Based in Abuja, Nigeria
+*  🧠  Building with Tailwind, Typescript and Nextjs
+*  🤝  Open to collaborating on Frontend Projects  
 
 # 
  
@@ -49,18 +35,21 @@
  ##
 
 <h1 align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif" width="600" align="center">
+	<img src="https://i.imgur.com/YCw47Dm.gif" width="600" align="center">
+</h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+	<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
+</p>
 
 <p align="center">
-<a href="https://codabytez.wrapped.run"><b>GitHub Wrapped</b></a>
+<a href="https://codabytez.wrapped.run">
+	<b>GitHub Wrapped</b>
+</a>
 
 <p align="center">
-<img src="https://github-readme-stats-trinib.vercel.app/api?username=codabytez&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=codabytez&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
- 
-###
+	<img src="https://github-readme-stats-trinib.vercel.app/api?username=codabytez&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=codabytez&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+</p>
  
  <h1 align="center">
  <a href="https://wakatime.com/@codabytez"> <b> WAKATIME STATS </b>
@@ -68,13 +57,12 @@
  <img src="https://github.com/codabytez/codabytez/blob/main/images/stat.svg" alt="WakaTime Activity" />
  </a>
 
-###
  
 <p align="center">
 <a href="https://github.com/codabytez/">
  <img align="center"  src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=codabytez&langs_count=8&layout=compact&theme=merko">
 </a>
-<img align="center" src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=codabytez&repo=ToDo_List&theme=merko">
+<img align="center" src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=codabytez&repo=poultry-collective&theme=merko">
 
 ###
  
@@ -86,10 +74,10 @@
     
 ###
  
-<!--  <p align="left"> <a href="https://twitter.com/codabytez" target="blank"><img src="https://img.shields.io/twitter/follow/codabytez?logo=twitter&style=for-the-badge" alt="codabytez" /></a> </p> -->
   
   <p align="center"> 
-   <a href="https://twitter.com/codabytez" target="blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/codabytez.svg?style=for-the-badge&logo=twitter&color=0E9C49&label=click To Follow me on Twitter" alt="codabytez" />
+   <a href="https://twitter.com/codabytez" target="blank">
+     <img src="https://img.shields.io/twitter/url/https/twitter.com/codabytez.svg?style=for-the-badge&logo=twitter&color=0E9C49&label=click To Follow me on Twitter" alt="codabytez" />
    </a> 
 
  <a href="https://wakatime.com/@e01f1d03-419c-4041-ac1e-4feedadb1682">
@@ -107,7 +95,7 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 
-![Snake animation](https://github.com/codabytez/codabytez/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/codabytez/codabytez/blob/output/github-contribution-grid-snake2.svg)
 
 ###
  
@@ -115,20 +103,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="30" width="42" alt="heroku logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" width="42" alt="markdown logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="slack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="30" width="42" alt="vscode logo"  />
+<div align="center" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="100" width="102" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="100" width="100" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="100" width="100" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="100" width="100" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="100" width="100" alt="typescript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="100" width="100" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="100" width="100" alt="nextjs logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="100" width="100" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="100" width="100" alt="github logo"  />
 </div>
 
 ###
@@ -150,17 +134,8 @@
   </a>
  
    </a>
-  <a href="https://www.twitter.com/codabytez" target="_blank">
+  <a href="https://www.twitter.com/codabytez" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=00acee&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://discordapp.com/users/937116359601569842" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href = "mailto: chidiobinna0001@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://codepen.io/codabytez" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
 </div>
 
