@@ -18,7 +18,7 @@
  
  <div align="center" >
    <h2>Readme Jokes</h2>
- <img src="https://readme-jokes.vercel.app/api" width="700" >
+ <img src="https://readme-jokes.vercel.app/api?hideBorder=true&theme=darcula" width="700" >
 </div>
  
  ##
@@ -68,15 +68,12 @@
  
   
   <p align="center"> 
-   <a href="https://twitter.com/codabytez" target="blank">
-     <img src="https://img.shields.io/twitter/url/https/twitter.com/codabytez.svg?style=for-the-badge&logo=twitter&color=0E9C49&label=click To Follow me on Twitter" alt="codabytez" />
-   </a> 
 
- <a href="https://wakatime.com/@e01f1d03-419c-4041-ac1e-4feedadb1682">
- <img src="https://wakatime.com/badge/user/e01f1d03-419c-4041-ac1e-4feedadb1682.svg?style=social" alt="Total time coded since Jan 11 2023" />
- </a>
+<a href="https://wakatime.com/@e01f1d03-419c-4041-ac1e-4feedadb1682">
+	<img src="https://wakatime.com/badge/user/e01f1d03-419c-4041-ac1e-4feedadb1682.svg?style=social" alt="Total time coded since Jan 11 2023" />
+</a>
  <img src="https://komarev.com/ghpvc/?username=codabytez&color=0E9C47&style=for-the-badge">
-   
+ 
   </p>     
 
  
@@ -115,7 +112,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/codabytez" target="_blank"><img src="https://github.com/codabytez/codabytez/blob/main/images/icons/linkedin.svg" height="35" alt="linkedin logo"  /></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/chizzi01" target="_blank">
+  <a href="https://www.instagram.com/codabytez" target="_blank">
     <img src="https://github.com/codabytez/codabytez/blob/main/images/icons/instagram.svg" height="35" alt="instagram logo"  />
   </a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
