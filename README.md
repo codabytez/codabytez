@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/937116359601569842?showDisplayName=true&idleMessage=watching+you)](https://discord.com/users/937116359601569842)
+[![Discord Presence](https://lanyard.cnrad.dev/api/937116359601569842?showDisplayName=true&idleMessage=watching+you+<3)](https://discord.com/users/937116359601569842)
 
 </div>
 
