@@ -1,18 +1,19 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
-   schedule:
-     - cron: '0 0 * * 0'
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: codabytez
-            # Text on contribution graph 
-            text: CODABYTZE
-       - uses: jasineri/simple-push-action@v1
+name: gitartwork from a contribution graph
+on:
+  push:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+          # Use this username's contribution graph
+          user_name: codabytez
+          # Text on contribution graph
+          text: CODABYTZE
+      - uses: jasineri/simple-push-action@v1
