@@ -33,7 +33,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+
           outputs: |
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
@@ -47,8 +47,6 @@ jobs:
       - name: Commit and push if it changed
         run: |
           git diff
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
           git add dist/*
           git commit -m "Update snake animations" && git push origin || echo "No changes to commit"
         env:
