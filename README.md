@@ -6,17 +6,19 @@
 
 ##
 
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/937116359601569842?showDisplayName=true&idleMessage=watching+you)](https://discord.com/users/937116359601569842)
+
+</div>
+
+##
+
 ![gitartwork](gitartwork.svg)
 
 ##
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&color=BA5F17&multiline=true&random=false&width=1700&height=320&lines=Frontend+Web+Developer;Based+in+Abuja%2C+Nigeria;Building+with+Tailwind%2C+Typescript+and+Nextjs;Open+to+collaborating+on+Frontend+Projects)](https://git.io/typing-svg)
-
-##
-
-<a href='https://discord.com/users/937116359601569842' target='_blank'>
- <img width="100%" src="https://lanyard.cnrad.dev/api/937116359601569842?showDisplayName=true&idleMessage=watching+you" alt='Discord Presence />
-</a>
 
 ##
 
