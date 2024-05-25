@@ -83,7 +83,8 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/codabytez/codabytez/output/github-contribution-grid-snake-dark.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/codabytez/codabytez/main/dist/github-contribution-grid-snake-dark.svg" />
+
 
 ###
  
