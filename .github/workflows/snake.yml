@@ -49,6 +49,8 @@ jobs:
 
       - name: Commit and push if it changed
         run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
           git diff
           git add dist/*
           git commit -m "Update snake animations" && git push origin || echo "No changes to commit"
