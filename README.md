@@ -49,7 +49,7 @@
 </a>
 
 <p align="center">
- <img src="images/metrics-general.svg"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codabytez&theme=darcula&hide_border=true"/>
  <img src="https://github-readme-streak-stats.herokuapp.com?user=codabytez&theme=darcula&hide_border=true">
 </p>
 
@@ -61,10 +61,9 @@
 
 <p align="center">
 <a href="https://github.com/codabytez/">
- <img align="center" src="images/metrics-langs.svg">
-</a>
+  <img src="images/metrics-general.svg"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codabytez&repo=poultry-collective&theme=darcula&hide_border=true&show_owner=true">
+</a>
 
 ###
 
@@ -127,16 +126,6 @@
 
 ###
 
-<h2 align="center">NOW PLAYING </h2>
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=b2i85budxdngpxcojz8ymrxn5&redirect=true)
-
-</div>
-
-###
-
 <h2 align="center">RECENTLY PLAYED</h2>
 
 ###
@@ -155,9 +144,6 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a>
 
 ###
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codabytez&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false">
 
 <h4 align="right">
 
