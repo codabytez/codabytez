@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="985px" height="822px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+.ascii, .panel {fill: #c9d1d9;}
+.wordmark {fill: #ffa657;}
+.tagline {fill: #8b949e; letter-spacing: 2px;}
+.spark {fill: #3fb950;}
+.sparklabel {fill: #8b949e;}
+.divider {stroke: #8b949e; stroke-width: 1; opacity: 0.45;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="822px" fill="#161b22" rx="15"/>
+<text x="15" y="28" class="ascii" font-size="11px">
+<tspan x="15" y="28">                             ..</tspan>
+<tspan x="15" y="39.5">                           ,...,.</tspan>
+<tspan x="15" y="51">                    .,,,,,,     .</tspan>
+<tspan x="15" y="62.5">                  ... .....,,.  .</tspan>
+<tspan x="15" y="74">                 .     ....... .,</tspan>
+<tspan x="15" y="85.5">                 .           ... ..</tspan>
+<tspan x="15" y="97">                 ,/(////////,.. . .</tspan>
+<tspan x="15" y="108.5">                ,*(##%%%@@%@/ /;   .</tspan>
+<tspan x="15" y="120">                :/((###%%%%@/.##:...</tspan>
+<tspan x="15" y="131.5">             .,,:::*(##%(//(;*#(;,,,</tspan>
+<tspan x="15" y="143">            .,:;;;:,;;*;,,,,,;##*:,,</tspan>
+<tspan x="15" y="154.5">             ,*//*:..,.:;;;;;,:*(;:.</tspan>
+<tspan x="15" y="166">             ,*/##/.;/:((*,.;:,///(*.</tspan>
+<tspan x="15" y="177.5">             .:(##/;(%:#@#((#,;(((((:</tspan>
+<tspan x="15" y="189">              ,:;;/#%%#;(%%%;:##*:(#.</tspan>
+<tspan x="15" y="200.5">              ./((#(#%%%/;;:;(#: ;#:</tspan>
+<tspan x="15" y="212">  :////////////((((((#####(###(/*((*/////////////;</tspan>
+<tspan x="15" y="223.5">  /############((((((((((((((((###(##############/</tspan>
+<tspan x="15" y="235">  *((((((((((((((((((((((((((((((((((((((((((((((*</tspan>
+<tspan x="15" y="246.5">  *((((((((((((((((((((((((((((((((((((((((((((((/</tspan>
+<tspan x="15" y="258">  *((((((((((((((((((((((((((((((((((((((((((((((*</tspan>
+<tspan x="15" y="269.5">  *((((((((((((((((((((((((((((((((((((((((((((((*</tspan>
+<tspan x="15" y="281">  *(((((((((((((((((((((((##(((((((((((((((((((((*</tspan>
+<tspan x="15" y="292.5">  *((((((((((((((((((((#%%%%#((((((((((((((((((((*</tspan>
+<tspan x="15" y="304">  *((((((((((((((((((((%%%%%(((((((((((((((((((((*</tspan>
+<tspan x="15" y="315.5">  *((((((((((((((((((((#%%%%#((((((((((((((((((((*</tspan>
+<tspan x="15" y="327">  *(((((((((((((((((((((#####((((((((((((((((((((*</tspan>
+<tspan x="15" y="338.5">  *((((((((((((((((((((((((((((((((((((((((((((((*</tspan>
+<tspan x="15" y="350">  *(/(((((/((/((((((((/((/(/(((/((((((/(//((((//(*</tspan>
+<tspan x="15" y="361.5">::/##############################################(::</tspan>
+</text>
+<text x="390" y="30" class="panel">
+<tspan x="390" y="30">lisan_al_gaib@codabytez -——————————————————————————————-—-</tspan>
+<tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">macOS Tahoe, iOS, Android</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">4 years, 6 months, 24 days</tspan></tspan>
+<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Coding time</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">3,732h 29m total · 3h 49m/day</tspan></tspan>
+<tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Product Engineer, Unbuilt Studio</tspan></tspan>
+<tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Abuja, Nigeria</tspan></tspan>
+<tspan x="390" y="150"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">VS Code, Xcode, Android Studio</tspan></tspan>
+<tspan x="390" y="170"><tspan class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">zsh, Git, GitHub Actions</tspan></tspan>
+<tspan x="390" y="190"></tspan>
+<tspan x="390" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="key">.</tspan><tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">TypeScript, Vue, JavaScript</tspan></tspan>
+<tspan x="390" y="230"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="key">.</tspan><tspan class="key">Real</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">English, French</tspan></tspan>
+<tspan x="390" y="250"></tspan>
+<tspan x="390" y="270"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="key">.</tspan><tspan class="key">Web</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Next.js, React, Vue, Nuxt, Tailwind</tspan></tspan>
+<tspan x="390" y="290"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="key">.</tspan><tspan class="key">Mobile</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">React Native, Expo, EAS, Capacitor</tspan></tspan>
+<tspan x="390" y="310"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="key">.</tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Node.js, NestJS, Supabase, PostgreSQL</tspan></tspan>
+<tspan x="390" y="330"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="key">.</tspan><tspan class="key">Tooling</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">CLIs, VS Code extensions, CI</tspan></tspan>
+<tspan x="390" y="350"></tspan>
+<tspan x="390" y="370">- Contact -————————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="390"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">hello@unbuilt.studio</tspan></tspan>
+<tspan x="390" y="410"><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">unbuilt.studio</tspan></tspan>
+<tspan x="390" y="430"><tspan class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">@codabytez</tspan></tspan>
+<tspan x="390" y="450"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">linkedin.com/in/codabytez</tspan></tspan>
+<tspan x="390" y="470"></tspan>
+<tspan x="390" y="490">- GitHub Stats -———————————————————————————————————————-—-</tspan>
+<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">22</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">61</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">1</tspan></tspan>
+<tspan x="390" y="530"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">1,802</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">16</tspan></tspan>
+<tspan x="390" y="550"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">878,969</tspan> ( <tspan class="addColor">1,370,046</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">491,077</tspan><tspan class="delColor">--</tspan> )</tspan>
+<tspan x="390" y="570"><tspan class="cc">. </tspan><tspan class="key">Top Languages</tspan>:<tspan class="cc">  </tspan><tspan class="value">TypeScript 69% · Vue 25% · JavaScript 6%</tspan></tspan>
+</text>
+<text x="15" y="395.5" class="sparklabel" font-size="11px">
+<tspan x="15" y="395.5">Contribution activity</tspan>
+</text>
+<text x="15" y="435.5" class="spark" font-size="30px">
+<tspan x="15" y="435.5" textLength="345" lengthAdjust="spacingAndGlyphs">▃▂▂▃▂▁▁▂▂▂▇██▇▃▁▅▅▆▅▅▅▅▄▅▆▆▆▇▆▅▄▅▅▄▅▄▆▇▅▆▆▆▅▄▇▄▆▅▄▅▁</tspan>
+</text>
+<text x="15" y="455.5" class="sparklabel" font-size="11px">
+<tspan x="15" y="455.5">2,519 contributions in the last year · peak 146/week</tspan>
+</text>
+<text x="15" y="485.5" class="panel" font-size="12px">
+<tspan x="15" y="485.5">- Music (last 4 weeks) -——————————————————————-—-</tspan>
+<tspan x="15" y="504.5"><tspan class="cc">. </tspan><tspan class="key">On repeat</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Monster or Not, Anger Management,</tspan></tspan>
+<tspan x="15" y="523.5"><tspan class="cc">.</tspan><tspan class="cc"> ............... </tspan><tspan class="value">Cry, Different Pictures, Saturn</tspan></tspan>
+<tspan x="15" y="542.5"><tspan class="cc">. </tspan><tspan class="key">Top track</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">MISSIN PIECE - Victony</tspan></tspan>
+<tspan x="15" y="561.5"><tspan class="cc">. </tspan><tspan class="key">Top artists</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Llona, Victony, OMAH LAY, Odeal</tspan></tspan>
+</text>
+<line x1="15" y1="604" x2="970" y2="604" class="divider"/>
+<text x="492" y="638" class="wordmark" font-size="30px" text-anchor="middle">
+<tspan x="492" y="638">████ ████ ███  ████ ███  █  █ ████ ████ ████</tspan>
+<tspan x="492" y="667">█    █  █ █  █ █  █ █  █ █  █  ██  █      █ </tspan>
+<tspan x="492" y="696">█    █  █ █  █ ████ ███   ██   ██  ███   ██ </tspan>
+<tspan x="492" y="725">█    █  █ █  █ █  █ █  █  ██   ██  █    █   </tspan>
+<tspan x="492" y="754">████ ████ ███  █  █ ███   ██   ██  ████ ████</tspan>
+</text>
+<text x="492" y="792" class="tagline" font-size="17px" text-anchor="middle">
+<tspan x="492" y="792">Music, Code and You.</tspan>
+</text>
+</svg>

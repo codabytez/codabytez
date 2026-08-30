@@ -1,0 +1,19 @@
+{
+  // No $schema line: the markdownlint extension validates this file against
+  // its own bundled schema, and a remote one only makes VS Code try to fetch
+  // from a host it does not trust.
+
+  // README.md is the GitHub profile card, not prose: it is deliberately a
+  // bare <picture> block with no heading.
+  "MD033": false, // no-inline-html
+  "MD041": false, // first-line-heading
+
+  // Keep the 80-column discipline for prose, where wrapping is free, but
+  // exempt tables and code blocks - a padded table column or a long command
+  // cannot be wrapped without breaking it.
+  "MD013": {
+    "line_length": 80,
+    "tables": false,
+    "code_blocks": false
+  }
+}

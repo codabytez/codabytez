@@ -1,0 +1,46 @@
+{
+  // Point the editor at the project venv, so `requests` and `dateutil`
+  // resolve instead of showing as unresolved imports.
+  // Create it with:  python3 -m venv .venv
+  //                  ./.venv/bin/pip install -r cache/requirements.txt -r scripts/requirements.txt
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+
+  // Proper nouns and jargon this project legitimately uses.
+  "cSpell.words": [
+    "addl",
+    "Andrew",
+    "Andrew6rant",
+    "Capacitor",
+    "codabytez",
+    "Consolas",
+    "dateutil",
+    "dotenv",
+    "emerjent",
+    "graphql",
+    "hngprojects",
+    "kiakia",
+    "Laravel",
+    "lengthAdjust",
+    "levelname",
+    "Menlo",
+    "neofetch",
+    "NestJS",
+    "Nuxt",
+    "Organisation",
+    "PLpgSQL",
+    "pyflakes",
+    "ravenmacaw",
+    "sparkline",
+    "stardelite",
+    "Supabase",
+    "Svelte",
+    "Tahoe",
+    "Talatech",
+    "textLength",
+    "tspan",
+    "tspans",
+    "useburse",
+    "wordmark"
+  ]
+}

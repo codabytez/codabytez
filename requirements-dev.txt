@@ -1,0 +1,7 @@
+# Editor and type-checking extras. Not needed to build the card, and not
+# installed by CI - see cache/requirements.txt for the runtime dependencies.
+#
+#   ./.venv/bin/pip install -r requirements-dev.txt
+pyright
+types-requests
+types-python-dateutil

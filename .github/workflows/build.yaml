@@ -1,0 +1,92 @@
+name: Build profile card
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'README.md'
+      - 'dark_mode.svg'
+      - 'light_mode.svg'
+  schedule:
+    - cron: "30 5 * * *"   # 05:30 UTC = 06:30 WAT
+  workflow_dispatch:
+    inputs:
+      force_cache:
+        description: 'Rebuild the LOC cache from scratch (slow)'
+        type: boolean
+        default: false
+
+# The default GITHUB_TOKEN is read-only on new repositories, so the commit
+# step below cannot push without this.
+permissions:
+  contents: write
+
+# A scheduled run and a push run committing at the same time would collide.
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # A cold cache walks every commit in every repository. The cache is written
+    # after each repository, so if this does time out the next run resumes.
+    timeout-minutes: 60
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 1
+          # Push the daily commit with the PAT, so the push is attributed to
+          # the repository owner rather than github-actions[bot]. GitHub
+          # disables scheduled workflows on a public repo after 60 days of "no
+          # repository activity" and does not define what counts; pushes made
+          # with the built-in token are widely reported not to reset that
+          # clock, which is how a profile card quietly stops updating.
+          #
+          # The commit *author* stays as the bot below, so these daily commits
+          # do not inflate the contribution graph this card draws.
+          token: ${{ secrets.ACCESS_TOKEN || github.token }}
+          persist-credentials: true
+
+      - name: Get Python
+        uses: actions/setup-python@v7
+        with:
+          # matches the .venv used locally, so a build that works on your
+          # machine works here
+          python-version: '3.14'
+          cache: pip
+          cache-dependency-path: cache/requirements.txt
+
+      - name: Install dependencies
+        run: python -m pip install -r cache/requirements.txt
+
+      - name: Build the SVGs
+        env:
+          # A fine-grained PAT. Falls back to the built-in token, which can
+          # still read public data if the secret is missing.
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN || github.token }}
+          USER_NAME: ${{ github.repository_owner }}
+          FORCE_CACHE: ${{ inputs.force_cache }}
+          # Optional. The Music block is skipped entirely if these are unset,
+          # so the build still succeeds without them.
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: python today.py
+
+      - name: Commit
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git diff --cached --stat
+          # [skip ci] is load-bearing now, not belt-and-braces: a push made
+          # with a PAT re-triggers workflows, where one made with the built-in
+          # token does not. Without it this job would retrigger itself.
+          git commit -m "chore: refresh profile card [skip ci]"
+          git push
