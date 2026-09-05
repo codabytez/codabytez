@@ -57,8 +57,8 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" class="panel">
 <tspan x="390" y="30">lisan_al_gaib@codabytez -——————————————————————————————-—-</tspan>
 <tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">macOS Tahoe, iOS, Android</tspan></tspan>
-<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">4 years, 6 months, 29 days</tspan></tspan>
-<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Coding time</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">3,761h 42m total · 3h 50m/day</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">4 years, 6 months, 30 days</tspan></tspan>
+<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Coding time</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">3,770h 10m total · 3h 50m/day</tspan></tspan>
 <tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Product Engineer, Unbuilt Studio</tspan></tspan>
 <tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Abuja, Nigeria</tspan></tspan>
 <tspan x="390" y="150"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">VS Code, Xcode, Android Studio</tspan></tspan>
@@ -80,18 +80,18 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="470"></tspan>
 <tspan x="390" y="490">- GitHub Stats -———————————————————————————————————————-—-</tspan>
 <tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">23</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">63</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">1</tspan></tspan>
-<tspan x="390" y="530"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">1,835</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">16</tspan></tspan>
-<tspan x="390" y="550"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">895,930</tspan> ( <tspan class="addColor">1,401,853</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">505,923</tspan><tspan class="delColor">--</tspan> )</tspan>
+<tspan x="390" y="530"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">1,839</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">16</tspan></tspan>
+<tspan x="390" y="550"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">898,173</tspan> ( <tspan class="addColor">1,404,826</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">506,653</tspan><tspan class="delColor">--</tspan> )</tspan>
 <tspan x="390" y="570"><tspan class="cc">. </tspan><tspan class="key">Top Languages</tspan>:<tspan class="cc">  </tspan><tspan class="value">TypeScript 69% · Vue 24% · JavaScript 6%</tspan></tspan>
 </text>
 <text x="15" y="395.5" class="sparklabel" font-size="11px">
 <tspan x="15" y="395.5">Contribution activity</tspan>
 </text>
 <text x="15" y="435.5" class="spark" font-size="30px">
-<tspan x="15" y="435.5" textLength="345" lengthAdjust="spacingAndGlyphs">▃▂▂▃▂▁▁▂▂▂▇██▃▃▁▅▅▆▅▅▅▅▄▅▆▆▆▇▆▅▄▅▅▄▅▄▆▇▅▆▆▆▅▄▇▄▆▅▄▅▅</tspan>
+<tspan x="15" y="435.5" textLength="345" lengthAdjust="spacingAndGlyphs">▃▂▂▃▂▁▁▂▂▂▇██▃▃▁▅▅▆▅▅▅▅▄▅▆▆▆▇▆▅▄▅▅▄▅▄▆▇▅▆▆▆▅▄▇▄▆▅▄▅▆</tspan>
 </text>
 <text x="15" y="455.5" class="sparklabel" font-size="11px">
-<tspan x="15" y="455.5">2,466 contributions in the last year · peak 146/week</tspan>
+<tspan x="15" y="455.5">2,474 contributions in the last year · peak 146/week</tspan>
 </text>
 <text x="15" y="485.5" class="panel" font-size="12px">
 <tspan x="15" y="485.5">- Music (last 4 weeks) -——————————————————————-—-</tspan>
