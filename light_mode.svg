@@ -57,8 +57,8 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" class="panel">
 <tspan x="390" y="30">lisan_al_gaib@codabytez -——————————————————————————————-—-</tspan>
 <tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">macOS Tahoe, iOS, Android</tspan></tspan>
-<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">4 years, 7 months, 10 days</tspan></tspan>
-<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Coding time</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">3,822h 42m total · 3h 51m/day</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">4 years, 7 months, 11 days</tspan></tspan>
+<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Coding time</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">3,826h 37m total · 3h 51m/day</tspan></tspan>
 <tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Product Engineer, Unbuilt Studio</tspan></tspan>
 <tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Abuja, Nigeria</tspan></tspan>
 <tspan x="390" y="150"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">VS Code, Xcode, Android Studio</tspan></tspan>
@@ -96,9 +96,9 @@ text, tspan {white-space: pre;}
 <text x="15" y="485.5" class="panel" font-size="12px">
 <tspan x="15" y="485.5">- Music (last 4 weeks) -——————————————————————-—-</tspan>
 <tspan x="15" y="504.5"><tspan class="cc">. </tspan><tspan class="key">On repeat</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Monster or Not, TOO LIT, WHO THIS,</tspan></tspan>
-<tspan x="15" y="523.5"><tspan class="cc">.</tspan><tspan class="cc"> ............................. </tspan><tspan class="value">would've been you</tspan></tspan>
+<tspan x="15" y="523.5"><tspan class="cc">.</tspan><tspan class="cc"> ................ </tspan><tspan class="value">would've been you, SLICK, TYPO</tspan></tspan>
 <tspan x="15" y="542.5"><tspan class="cc">. </tspan><tspan class="key">Top track</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">MISSIN PIECE - Victony</tspan></tspan>
-<tspan x="15" y="561.5"><tspan class="cc">. </tspan><tspan class="key">Top artists</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Victony, Llona, Rod Wave, NF</tspan></tspan>
+<tspan x="15" y="561.5"><tspan class="cc">. </tspan><tspan class="key">Top artists</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Victony, Rod Wave, Llona, NF</tspan></tspan>
 </text>
 <line x1="15" y1="604" x2="970" y2="604" class="divider"/>
 <text x="492" y="638" class="wordmark" font-size="30px" text-anchor="middle">
