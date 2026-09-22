@@ -57,8 +57,8 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" class="panel">
 <tspan x="390" y="30">lisan_al_gaib@codabytez -——————————————————————————————-—-</tspan>
 <tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">macOS Tahoe, iOS, Android</tspan></tspan>
-<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">4 years, 7 months, 15 days</tspan></tspan>
-<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Coding time</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">3,843h total · 3h 51m/day</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">4 years, 7 months, 16 days</tspan></tspan>
+<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Coding time</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">3,846h 57m total · 3h 51m/day</tspan></tspan>
 <tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Product Engineer, Unbuilt Studio</tspan></tspan>
 <tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Abuja, Nigeria</tspan></tspan>
 <tspan x="390" y="150"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">VS Code, Xcode, Android Studio</tspan></tspan>
@@ -79,19 +79,19 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="450"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">linkedin.com/in/codabytez</tspan></tspan>
 <tspan x="390" y="470"></tspan>
 <tspan x="390" y="490">- GitHub Stats -———————————————————————————————————————-—-</tspan>
-<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">23</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">66</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">1</tspan></tspan>
-<tspan x="390" y="530"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">1,936</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">17</tspan></tspan>
-<tspan x="390" y="550"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">935,118</tspan> ( <tspan class="addColor">1,485,637</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">550,519</tspan><tspan class="delColor">--</tspan> )</tspan>
+<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">21</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">64</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">1</tspan></tspan>
+<tspan x="390" y="530"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">1,925</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">16</tspan></tspan>
+<tspan x="390" y="550"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">916,784</tspan> ( <tspan class="addColor">1,470,745</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">553,961</tspan><tspan class="delColor">--</tspan> )</tspan>
 <tspan x="390" y="570"><tspan class="cc">. </tspan><tspan class="key">Top Languages</tspan>:<tspan class="cc">  </tspan><tspan class="value">TypeScript 65% · Vue 28% · JavaScript 6%</tspan></tspan>
 </text>
 <text x="15" y="395.5" class="sparklabel" font-size="11px">
 <tspan x="15" y="395.5">Contribution activity</tspan>
 </text>
 <text x="15" y="435.5" class="spark" font-size="30px">
-<tspan x="15" y="435.5" textLength="345" lengthAdjust="spacingAndGlyphs">▃▂▁▁▂▂▂▇██▃▃▁▅▅▆▅▅▅▅▄▅▆▆▆▇▆▅▄▅▅▄▅▄▆▇▅▆▆▆▅▄▇▄▆▆▄▅▆▄█▅</tspan>
+<tspan x="15" y="435.5" textLength="345" lengthAdjust="spacingAndGlyphs">▂▂▁▁▂▂▂▇██▃▃▁▅▅▆▅▅▅▅▄▅▆▆▆▇▆▅▄▅▅▄▄▄▆▇▅▆▆▆▅▄▇▄▆▆▄▅▅▄█▆</tspan>
 </text>
 <text x="15" y="455.5" class="sparklabel" font-size="11px">
-<tspan x="15" y="455.5">2,712 contributions in the last year · peak 146/week</tspan>
+<tspan x="15" y="455.5">2,718 contributions in the last year · peak 146/week</tspan>
 </text>
 <text x="15" y="485.5" class="panel" font-size="12px">
 <tspan x="15" y="485.5">- Music (last 4 weeks) -——————————————————————-—-</tspan>
