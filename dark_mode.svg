@@ -57,8 +57,8 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" class="panel">
 <tspan x="390" y="30">lisan_al_gaib@codabytez -——————————————————————————————-—-</tspan>
 <tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">macOS Tahoe, iOS, Android</tspan></tspan>
-<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">4 years, 7 months, 16 days</tspan></tspan>
-<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Coding time</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">3,846h 57m total · 3h 51m/day</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">4 years, 7 months, 17 days</tspan></tspan>
+<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Coding time</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">3,854h 53m total · 3h 52m/day</tspan></tspan>
 <tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Product Engineer, Unbuilt Studio</tspan></tspan>
 <tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Abuja, Nigeria</tspan></tspan>
 <tspan x="390" y="150"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">VS Code, Xcode, Android Studio</tspan></tspan>
@@ -88,17 +88,17 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="395.5">Contribution activity</tspan>
 </text>
 <text x="15" y="435.5" class="spark" font-size="30px">
-<tspan x="15" y="435.5" textLength="345" lengthAdjust="spacingAndGlyphs">▂▂▁▁▂▂▂▇██▃▃▁▅▅▆▅▅▅▅▄▅▆▆▆▇▆▅▄▅▅▄▄▄▆▇▅▆▆▆▅▄▇▄▆▆▄▅▅▄█▆</tspan>
+<tspan x="15" y="435.5" textLength="345" lengthAdjust="spacingAndGlyphs">▂▂▁▁▂▂▂▇██▃▃▁▅▅▆▅▅▅▅▄▅▆▆▆▇▆▅▄▅▅▄▄▄▆▇▅▆▆▆▅▄▇▄▆▆▄▅▅▄█▇</tspan>
 </text>
 <text x="15" y="455.5" class="sparklabel" font-size="11px">
-<tspan x="15" y="455.5">2,718 contributions in the last year · peak 146/week</tspan>
+<tspan x="15" y="455.5">2,755 contributions in the last year · peak 146/week</tspan>
 </text>
 <text x="15" y="485.5" class="panel" font-size="12px">
 <tspan x="15" y="485.5">- Music (last 4 weeks) -——————————————————————-—-</tspan>
-<tspan x="15" y="504.5"><tspan class="cc">. </tspan><tspan class="key">On repeat</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Monster or Not, would've been you,</tspan></tspan>
-<tspan x="15" y="523.5"><tspan class="cc">.</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">COPING MECHANISM, Pier 46</tspan></tspan>
-<tspan x="15" y="542.5"><tspan class="cc">. </tspan><tspan class="key">Top track</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">MISSIN PIECE - Victony</tspan></tspan>
-<tspan x="15" y="561.5"><tspan class="cc">. </tspan><tspan class="key">Top artists</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Rod Wave, Llona, Victony, NF</tspan></tspan>
+<tspan x="15" y="504.5"><tspan class="cc">. </tspan><tspan class="key">On repeat</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">MISSIN PIECE, COPING MECHANISM,</tspan></tspan>
+<tspan x="15" y="523.5"><tspan class="cc">.</tspan><tspan class="cc"> ............ </tspan><tspan class="value">Pier 46, Anger Management, Cry, 25</tspan></tspan>
+<tspan x="15" y="542.5"><tspan class="cc">. </tspan><tspan class="key">Top track</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Monster or Not - Llona</tspan></tspan>
+<tspan x="15" y="561.5"><tspan class="cc">. </tspan><tspan class="key">Top artists</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Llona, Rod Wave, Victony, NF</tspan></tspan>
 </text>
 <line x1="15" y1="604" x2="970" y2="604" class="divider"/>
 <text x="492" y="638" class="wordmark" font-size="30px" text-anchor="middle">
